@@ -1,0 +1,8 @@
+{
+  "name": "Omniux",
+  "description": "Build your brand, grow your business. A clean dynamic marketing agency website featuring kinetic typography and vaporwave styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
